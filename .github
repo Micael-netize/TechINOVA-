@@ -1,43 +1,51 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+<html>
+  
+</html><head>(Jornal do Meio Dia)</head>
 
-on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
+<h1>DONO DO INSTITUTO UNIDEMA UNIVERSIT&Aacute;RIO FALA PELA PEIMEIRA VEZ</h1>
+<option>Ele pretende trazer novas tecnologias &agrave; escola</option>
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+<input>
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
 
-jobs:
-  # Single deploy job since we're just deploying
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          # Upload entire repository
-          path: '.'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+<option>O CEO do Instituto UNIDEMA UNIVERSIT&Aacute;RIO afirmou pela primeira vez que o mundo vai se revolucionar com suas novas tecnologias.</option>
+
+
+<h2>" A tecnologia dentro da escola ir&aacute; avan&ccedil;ar a cada dia que se passa"</h2>
+
+<output>Ningu&eacute;m sabia que o ent&atilde;o CEO da UNIDEMA iria vir pra essa viajem.</output>Foi somente em 2024 que Micael de Oliveira Gomes de Oliveira cria a ent&atilde;o empresa de tecnologia avan&ccedil;ada no Povoado Pindoval,munic&iacute;pio de Cantanhede-MA.
+
+
+<h3>NOT&Iacute;CIAS EM MARANH&Atilde;O,BRASIL:</h3>
+<option>(*Nada Registrado,AINDA*!!!)</option>
+
+<h3>Lista de concorrentes(Para a vaga em cursos no Maranh&atilde;o):</h3>
+
+<li>Micael de O.Leal</li>
+<li>Ant&ocirc;nio Souza Rodrigues</li>
+<li>Maur&iacute;cio Cruz</li>
+
+<h4>O BRASIL ainda ir&aacute; ver o quanto a tecnologia ir&aacute; avan&ccedil;ar nesses dias</h4>
+
+<h1>SOBRE UM ARREBATAMENTO...</h1>
+
+
+N&atilde;o se sabe quando,nem onde o arrebatamento ir&aacute; acontecer,mas sabemos que o mundo est&aacute; pr&oacute;ximo do fim!!!
+O mundo n&atilde;o vai durar mais desesseis mil anos,pois os anos 2000 s&atilde;o anos de mortes e mais mortes,desastres,entre outros...!
+
+<h2>Tabela representando o n&uacute;mero de mortes em pa&iacute;ses em desenvolvimento:</h2>
+
+<table border="1">
+  <tr></tr>
+  <td>PA&Iacute;S</td>
+  <td>N.HABITANTES</td>
+  <td>INDICE DE MORTALIDADE</td>
+  </tr>
+  <tr>
+    <td>Brasil</td>
+    <td>250.000.000</td>
+    <td>0%</td>
+  </tr>
+  </table>
+  
